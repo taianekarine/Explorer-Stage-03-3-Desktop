@@ -1,12 +1,12 @@
 <h1 align="center"> Desktop - Space Cream </h1>
 
 <p align="center">
-O desafio da vez foi criar uma página para dispositivos mobile.
+The challenge of the time was to create a desktop page with animations
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -17,29 +17,29 @@ O desafio da vez foi criar uma página para dispositivos mobile.
 
 <br>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-## 💻 Projeto
+## 💻 Project
 
-- Versão Desktop;
-- Unidade de medida flexível;
+- Desktop Version;
+- Flexible measurement unit;
 - Grid Layout;
-- Variáveis;
-- Animações simples.
+- Variables;
+- Simple animations.
 
 
 ## 🔖 Layout
 
 ![pro3-3](https://user-images.githubusercontent.com/94652702/200232401-fa43747a-fa03-4ce8-b1e5-f892645b795a.png)
 
-## Você pode acessar a página através do link abaixo:
+## You can access the page through the link below:
 https://explorer-stage-03-3-desktop.vercel.app/
 
 ---
 
-Feito com ♥ by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Done with ♥ by Taiane Karine and Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
